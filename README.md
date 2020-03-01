@@ -2,7 +2,7 @@
 
 *This scans the meeting room and update the status on Salesforce cloud. Then mobile application can be used to check the status of the meeting room (Occupied or Vacant)*
 
-## Project Structure
+## Project Structure 
 
 * ***human_detector.py*** - This class will detect the presence of person in room.
 * ***salesforce_connection.py*** - This class helps python to connect with your salesforce cloud.
